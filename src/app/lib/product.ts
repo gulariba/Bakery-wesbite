@@ -34,13 +34,7 @@ export const products = [
     description: "Crunchy cookies packed with chia goodness.",
     image: "/images/chiacookies.jpg",
   },
-  {
-    id: "6",
-    name: "Gluten-Free Berry Tart",
-    price: "Rs. 450",
-    description: "Loaded with fresh berries, no gluten!",
-    image: "/images/berrytart.jpg",
-  },
+
   {
     id: "7",
     name: "Almond Date Bites",
