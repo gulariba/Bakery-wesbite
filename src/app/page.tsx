@@ -83,7 +83,7 @@ export default function HomePage() {
       <section className="bg-gray-100 py-16 px-6">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-3xl font-bold text-yellow-500 mb-6">
-            Try Our Signature Apple Oat Pastry
+            Try Our Signature Pastries
           </h2>
           <p className="text-lg mb-8">
             Packed with fiber, love, and our signature touch of wellness.
